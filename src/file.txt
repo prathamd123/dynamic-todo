@@ -1,0 +1,4 @@
+component ek function hai jo jsx return karega 
+
+
+jsx html ki tarah dikhne wala syntax hai uske paas kuch superpowerrs hai jo ki html ke paas nahi haii
